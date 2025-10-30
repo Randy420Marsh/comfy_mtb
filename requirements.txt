@@ -1,12 +1,12 @@
 qrcode[pil]
-onnxruntime-gpu
-requirements-parser
+onnxruntime-gpu==1.21.1
+requirements-parser==0.13.0
 # opencv-contrib
-rembg
+rembg==2.0.67
 imageio_ffmpeg
-rich
+rich==13.9.4
 rich_argparse
-matplotlib
-pillow
-cachetools
-transformers
+matplotlib==3.10.5
+pillow==11.3.0
+cachetools==5.5.2
+transformers==4.55.4
